@@ -19,11 +19,7 @@
   <img align="center" alt="giu-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />     
   <img align="center" alt="giu-c" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="giu-c" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-          
-          
-          
-          
-  
+
 </div>
 
 <div style="display: inline_block"><br>
